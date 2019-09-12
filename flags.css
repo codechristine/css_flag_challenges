@@ -1,17 +1,121 @@
 /* Indonesia */
-
-/* Colombia */
-
+.flagContainer{
+  margin-top: 5px;
+}
+/* #indonesia{
+  position: relative;
+} */
+.indo1{
+  background-color: red;
+  width: 160px;
+  height: 30px;
+}
+.indo2{
+  background-color: white;
+  width: 160px;
+  height: 30px;
+}
+.columb1{
+  background-color: yellow;
+  width: 160px;
+  height: 50px;
+}
+.columb2{
+  background-color: blue;
+  width: 160px;
+  height: 30px;
+}
+.columb3{
+  background-color: red;
+  width: 160px;
+  height: 30px;
+}
 /* Ireland */
-
+.ireland1{
+  background-color: seagreen;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
+.ireland2{
+  background-color: white;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
+.ireland3{
+  background-color: orange;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
 /* France */
-
+.france1{
+  background-color: royalblue;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
+.france2{
+  background-color: white;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
+.france3{
+  background-color: red;
+  width: 50px;
+  height: 70px;
+  display: inline-block;
+}
 /* Benin */
-
+.benin1{
+  background-color: green;
+  width: 50px;
+  height: 80px;
+  float: left;
+  /* display: inline-block; */
+  margin: 0px;
+}
+.benin2{
+  width: 110px;
+  display: inline-block;
+  /* float: left; */
+}
+.benin3{
+  background-color: yellow;
+  height: 40px;
+}
+.benin4{
+  background-color: red;
+  height: 40px;
+}
 /* Sweden */
-
+.sweden1{
+  background-color: blue;
+  height: 70px;
+  width: 160px;
+  position: relative;
+}
+.sweden2{
+  background-color:  yellow;
+  height: 70px;
+  width: 10px;
+  position: absolute;
+  left: 50px;
+}
+.sweden3{
+  background-color:  yellow;
+  height: 10px;
+  width: 160px;
+  top: 30px;
+  position: absolute;
+}
 /* Switzerland */
-
+.switz1{
+  height: 50px;
+  width: 50px;
+}
 /* Tonga */
 
 /* Japan */
