@@ -90,7 +90,7 @@
 <img src="assets/images/12_greece.png" border="1">
 
 1. make the cross in the top left as you have before with a container for it. position this absolutely in the top/left
-1. make a container for the horizontal bars 
+1. make a container for the horizontal bars
     1. put 9 elements in it, no need for a class
     1. select all the elements in the horizontal bar container, make them white
     1. with nth-child(odd), select only the odd children in the container and make them background color blue
